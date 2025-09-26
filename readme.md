@@ -1,9 +1,9 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I%27m+Alsia+%F0%9F%91%8B;Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=40&pause=1000&color=3F00F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi,+I%27m+Axdesh+%F0%9F%91%8B;Full-Stack+Developer" />
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Alsiaw&color=blue"/>
+    <img src="https://komarev.com/ghpvc/?username=Axdeshw&color=blue"/>
 </div>
 
 <h2></h2>
@@ -40,12 +40,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Alsiaw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Axdeshw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alsiaw&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axdeshw&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
