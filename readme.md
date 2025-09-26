@@ -9,7 +9,7 @@
 <h2></h2>
 
 ### 🌐 Contact With Me
-<a href="https://discord.com/users/278152550627409921" target="_blank">
+<a href="https://discord.com/users/948254398730084423" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="40px">
 </a>
 <a href="https://serverchecker.online/" target="_blank">
@@ -62,7 +62,7 @@ Batchfile    0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### Developer Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/278152550627409921)](https://discord.com/users/278152550627409921)
+[![Discord Presence](https://lanyard.cnrad.dev/api/948254398730084423)](https://discord.com/users/948254398730084423)
 
 <h2></h2>
 
