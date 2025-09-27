@@ -40,12 +40,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Axdeshw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Axdeshwid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axdeshw&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axdeshwid&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 
 <h2></h2>
 
